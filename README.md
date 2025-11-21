@@ -20,5 +20,5 @@ Right now I'm working on web API development through school projects, as well as
 ---
 
 ## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michael6520&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michael6520&layout=compact)
